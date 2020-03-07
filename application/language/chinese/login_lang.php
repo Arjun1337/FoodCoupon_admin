@@ -1,0 +1,24 @@
+<?php
+$lang['user_name'] = '用户名';
+$lang['password'] = '密码';
+$lang['sign_in'] = '登入';
+$lang['sign_up'] = '注册';
+$lang['welcome'] = '欢迎';
+$lang['forgot_pass'] = '忘记密码?';
+$lang['remember_me'] = '记得我';
+$lang['account_yet'] = '还没有帐户?';
+$lang['required_field'] = '这是必填栏。';
+$lang['create_account'] = '输入您的详细信息以创建帐户';
+$lang['email'] = '电子邮箱';
+$lang['full_name'] = '全名';
+$lang['confirm_pass'] = '密码确认';
+$lang['phone_number'] = '电话号码';
+$lang['market_place'] = '市井';
+$lang['amazon_id'] = '亚马逊卖家识别';
+$lang['invitation'] = '邀请码';
+$lang['qq'] = 'QQ';
+$lang['cancel'] = '取消';
+$lang['agree'] = '我同意';
+$lang['term_cond'] = '条款和条件';
+$lang['pass_reset'] = '输入您的电子邮件以重置您的密码';
+$lang['request'] = '请求';
